@@ -1,5 +1,11 @@
-# React + Vite
+**Portfolio Project**
 
+**GitHub Repository Link**: https://github.com/zararakazimi/advanced-react-portfolio
+
+**Live demo Link: https**://week-8-zarara-kazimi-portfolio.netlify.app/
+
+
+# React + Vite
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
